@@ -7,3 +7,14 @@
 .product-name {
 	color: blue;
 }
+.btn-regular {
+	background-color: goldenrod;
+	width: 150px;
+	height: 30px;
+	border: 1px solid rgb(119, 118, 118);
+	border-radius: 5px;
+	cursor: pointer;
+}
+.product-details {
+	margin-left: 15px;
+}
